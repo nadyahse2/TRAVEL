@@ -1,0 +1,2 @@
+GRANT ALL PRIVILEGES ON DATABASE travel_db TO admin
+

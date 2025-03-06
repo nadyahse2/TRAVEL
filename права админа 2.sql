@@ -1,0 +1,1 @@
+GRANT USAGE ON SEQUENCE trips_trip_id_seq TO admin;

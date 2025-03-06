@@ -1,0 +1,2 @@
+GRANT CONNECT ON DATABASE travel_db TO admin;
+GRANT CONNECT ON DATABASE travel_db TO guest;
